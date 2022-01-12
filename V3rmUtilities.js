@@ -2,6 +2,8 @@
 // @name         V3rmUtilities
 // @namespace    http://tampermonkey.net/
 // @version      0.1
+// @updateURL    https://raw.githubusercontent.com/xyba1337/V3rmUtilities/main/V3rmUtilities.js
+// @downloadURL  https://raw.githubusercontent.com/xyba1337/V3rmUtilities/main/V3rmUtilities.js
 // @description  additional tools for v3rmillion.net
 // @author       xyba
 // @match        https://v3rmillion.net/*
