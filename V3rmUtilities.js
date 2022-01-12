@@ -87,7 +87,7 @@
       <tbody>
          <tr>
             <td class="tfoot smalltext" colspan="3">
-               <a href="https://github.com/xyba1337">GitHub repository</a>
+               <a href="https://github.com/xyba1337/V3rmUtilities">GitHub repository</a>
                <span class="float_right">
                <a href="https://v3rmillion.net/member.php?action=profile&uid=612047">V3rmillion Profile</a>
                </span>
